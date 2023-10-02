@@ -1,0 +1,120 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: 	#DEB887;
+}
+.nvbar{
+	font-family: Verdana;
+}
+
+header {
+	background-color: #CD853F;
+	padding: 20px;
+}
+
+header h1 {
+	margin: 0;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+section {
+	margin-bottom: 40px;
+}
+
+section h2 {
+	margin-top: 0;
+}
+
+ol {
+	margin-left: 20px;
+}
+
+footer {
+	background-color: #CD853F;
+	padding: 10px;
+	text-align: center;
+	margin-top:200px;
+}
+
+nav {
+	background-color: #D2691E;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+}
+
+nav li {
+	padding: 10px;
+}
+
+nav a {
+	color:black;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #ccc;
+}
+.kokusz1{
+float:left;
+margin-left:60px;
+width:20%;
+border:5px solid white;
+margin-top:15px;
+}
+.kokusz5{
+	margin-top:15px;
+	width:20%;
+	float:right;
+	margin-right:150px;
+	border:5px solid white;
+}
+.kokusz2{	
+	float:right;
+	clear:both;
+
+	margin-bottom:20px;
+}
+.kokusz3{
+	float:right;
+	clear:both;
+	display:block;
+}
+
+.meggy{
+	margin-left:101px;
+	width:20%;
+	border:5px solid white;
+	clear:both;
+	float:left;
+	margin-top:60px;
+}
+.sprinkles{
+	margin-right:101px;
+	margin-top:20px;
+	width:20%;
+	border:5px solid white;
+	
+	float:right;
+}
+.keveres{
+	float:right;
+	border:5px solid white;
+	
+}
+h1{
+	background-color: #DEB887;
+	border:5px solid #D2691E;
+}
